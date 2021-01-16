@@ -1,14 +1,14 @@
 # Baekjoon-Algorithm-Solution
+## 알고리즘 정리
 
 - 정렬
     - [선택 정렬(Selection Sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/selection_sort.md)
     - [거품 정렬(Bubble Sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/bubble_sort.md)
-    - 삽입 정렬
-    - 퀵 정렬
+    - [삽입 정렬(Insertion sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/insertion_sort.md)
+    - [퀵 정렬(Quick sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/quick_sort.md)
     - 병합 정렬
     - 힙 정렬
-    - 기수 정렬
-    - 계수 정렬
+    - 정렬 별 시간 복잡도 정리
 - 이분 탐색
 - DFS
 - BFS
