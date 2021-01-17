@@ -6,8 +6,8 @@
     - [거품 정렬(Bubble Sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/bubble_sort.md)
     - [삽입 정렬(Insertion sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/insertion_sort.md)
     - [퀵 정렬(Quick sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/quick_sort.md)
-    - 병합 정렬
-    - 힙 정렬
+    - [병합 정렬(Merge sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/merge_sort.md)
+    - [힙 정렬(Heap sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/heap_sort.md))
     - 정렬 별 시간 복잡도 정리
 - 이분 탐색
 - DFS
