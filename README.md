@@ -1,5 +1,4 @@
-# Baekjoon-Algorithm-Solution
-## 알고리즘 정리
+# 알고리즘 정리
 
 - 정렬
     - [선택 정렬(Selection Sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/selection_sort.md)
@@ -7,8 +6,8 @@
     - [삽입 정렬(Insertion sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/insertion_sort.md)
     - [퀵 정렬(Quick sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/quick_sort.md)
     - [병합 정렬(Merge sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/merge_sort.md)
-    - [힙 정렬(Heap sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/heap_sort.md))
-    - 정렬 별 시간 복잡도 정리
+    - [힙 정렬(Heap sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/heap_sort.md)
+    - [정렬 별 시간 복잡도 정리](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/sort_time_complexity.md)
 - 이분 탐색
 - DFS
 - BFS
