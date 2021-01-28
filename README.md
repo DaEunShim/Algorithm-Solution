@@ -8,7 +8,7 @@
     - [병합 정렬(Merge sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/merge_sort.md)
     - [힙 정렬(Heap sort)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/heap_sort.md)
     - [정렬 별 시간 복잡도 정리](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/sort_time_complexity.md)
-- 이분 탐색
+- [이분 탐색(Binary Search)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/binary_search.md)
 - DFS
 - BFS
 - 해시 테이블
