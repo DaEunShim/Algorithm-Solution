@@ -10,10 +10,10 @@
     - [정렬 별 시간 복잡도 정리](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/sort_time_complexity.md)
 - [이분 탐색(Binary Search)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/binary_search.md)
 - [우선 순위 큐(Priority Queue)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/priority_queue.md)
+- [최장 증가 수열(LIS = Longest Increasing Sequence)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/LIS.md)
 - DFS
 - BFS
 - 해시 테이블
-- 최장 증가 수열(LIS)
 - 최소 공통 조상(LCA)
 - 동적 계획법(Dynamic Programming)
 - 비트마스크
