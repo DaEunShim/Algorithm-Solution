@@ -11,6 +11,7 @@
 - [이분 탐색(Binary Search)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/binary_search.md)
 - [우선 순위 큐(Priority Queue)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/priority_queue.md)
 - [최장 증가 수열(LIS = Longest Increasing Sequence)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/LIS.md)
+- [에라토스테네스의 체(소수 찾기)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/sieve_of_eratosthenes.md)
 - DFS
 - BFS
 - 해시 테이블
