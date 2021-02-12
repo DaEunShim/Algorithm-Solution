@@ -12,13 +12,13 @@
 - [우선 순위 큐(Priority Queue)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/priority_queue.md)
 - [최장 증가 수열(LIS = Longest Increasing Sequence)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/LIS.md)
 - [에라토스테네스의 체(소수 찾기)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/sieve_of_eratosthenes.md)
+- [투포인터(Two Pointers)](https://github.com/DaEunShim/Algorithm-Solution/blob/master/Algorithm/two_pointers.md)
 - DFS
 - BFS
 - 해시 테이블
 - 최소 공통 조상(LCA)
 - 동적 계획법(Dynamic Programming)
 - 비트마스크
-- 투포인터 알고리즘
 - 순열
 - 최대공약수 / 최소공배수
 - 그리디
