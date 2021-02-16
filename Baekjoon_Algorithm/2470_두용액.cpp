@@ -14,17 +14,17 @@ int main(void){
         cin >> arr[i];
     }
     sort(arr.begin(), arr.end());
-    long long sum, minimum = -9999999999;
+    long long sum, minimum = 9999999999;
     int L = 0, R = n - 1, left = 0, right = n - 1;
     while (L < R){
-         long long sum = arr[left] + arr[right];
-         if (abs(sum) < minimum) {
-         	minimum = abs(sum);
+        sum = arr[L] + arr[R];
+        if (abs(sum) < minimum) {
+            minimum = abs(sum);
             left = L;
-           	right = R;
-         }
-         if (sum < 0)  L++;
-         else R--;
+            right = R;
+        }
+        if (sum < 0)  L++;
+        else R--;
 }
 
     cout<< arr[left] <<" "<<arr[right]<<endl;
